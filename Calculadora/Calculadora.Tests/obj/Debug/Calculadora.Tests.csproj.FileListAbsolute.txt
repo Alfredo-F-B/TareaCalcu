@@ -1,0 +1,8 @@
+c:\users\alfredo ferreira b\documents\visual studio 2010\Projects\Calculadora\Calculadora.Tests\bin\Debug\Calculadora.Tests.dll.config
+c:\users\alfredo ferreira b\documents\visual studio 2010\Projects\Calculadora\Calculadora.Tests\bin\Debug\Calculadora.Tests.dll
+c:\users\alfredo ferreira b\documents\visual studio 2010\Projects\Calculadora\Calculadora.Tests\bin\Debug\Calculadora.Tests.pdb
+c:\users\alfredo ferreira b\documents\visual studio 2010\Projects\Calculadora\Calculadora.Tests\bin\Debug\Calculadora.dll
+c:\users\alfredo ferreira b\documents\visual studio 2010\Projects\Calculadora\Calculadora.Tests\bin\Debug\Calculadora.pdb
+c:\users\alfredo ferreira b\documents\visual studio 2010\Projects\Calculadora\Calculadora.Tests\obj\Debug\ResolveAssemblyReference.cache
+c:\users\alfredo ferreira b\documents\visual studio 2010\Projects\Calculadora\Calculadora.Tests\obj\Debug\Calculadora.Tests.dll
+c:\users\alfredo ferreira b\documents\visual studio 2010\Projects\Calculadora\Calculadora.Tests\obj\Debug\Calculadora.Tests.pdb

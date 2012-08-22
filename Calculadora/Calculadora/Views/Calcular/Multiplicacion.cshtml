@@ -1,0 +1,30 @@
+﻿@model Calculadora.Models.Calcular
+
+@{
+    ViewBag.Title = "Multiplicacion";
+}
+
+<h2>CALCULADORA</h2>
+
+<ul class="submenu">
+<li><a href="">Suma</a></li>
+<li><a href="">Resta</a></li>
+<li><a href="">Multiplicacion</a></li>
+<li><a href="">Division</a></li>
+</ul>
+
+@ViewBag.msn <b> @ViewBag.hora </b>
+<h2>MULTIPLICACION</h2>
+
+@using(Html.BeginForm()){
+    <b> a = </b>@Html.TextBoxFor(p=>p.num1);
+                @Html.ValidationMessageFor(p=>p.num1)
+    <br/>
+    <b> * </b>
+    <br/>
+    <b> b = </b>@Html.TextBoxFor(p=>p.num2);
+                @Html.ValidationMessageFor(p => p.num2)
+    <br/>
+    <input type = "submit" value = "Multiplicar" />
+}
+<div class = "Resultado" > @ViewBag.r </div>

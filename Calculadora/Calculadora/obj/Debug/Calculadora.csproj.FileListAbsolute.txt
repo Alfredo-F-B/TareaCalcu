@@ -1,0 +1,7 @@
+c:\users\alfredo ferreira b\documents\visual studio 2010\Projects\Calculadora\Calculadora\bin\Calculadora.dll
+c:\users\alfredo ferreira b\documents\visual studio 2010\Projects\Calculadora\Calculadora\bin\Calculadora.pdb
+c:\users\alfredo ferreira b\documents\visual studio 2010\Projects\Calculadora\Calculadora\bin\EntityFramework.dll
+c:\users\alfredo ferreira b\documents\visual studio 2010\Projects\Calculadora\Calculadora\bin\EntityFramework.xml
+c:\users\alfredo ferreira b\documents\visual studio 2010\Projects\Calculadora\Calculadora\obj\Debug\ResolveAssemblyReference.cache
+c:\users\alfredo ferreira b\documents\visual studio 2010\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.dll
+c:\users\alfredo ferreira b\documents\visual studio 2010\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
